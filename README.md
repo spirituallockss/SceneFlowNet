@@ -15,4 +15,4 @@ conda dependencies/environment.yml
 ./run_flow_testing.sh
 ```
 
-## Unzip model.best under checkpoints/ to test pretrained model
+## Unzip model.best.zip under checkpoints/ to use pretrained model
